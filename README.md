@@ -1,18 +1,27 @@
 ## Hi there  I'm Sakshi Pandurang Chavan👋
 
-<!--
-**sagesakshi27/sagesakshi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 > Currently I'm Persuing BCA
+
+---
+
+**Liked what you see?**  
+Follow me on **_[GitHub](https://github.com/sagesakshi27)_** and **⭐⭐⭐⭐⭐ star the repositories** you like!  
+Your support keeps me motivated to create more awesome projects 🚀
+
+```
+˚∧＿∧  　+         —̳͟͞͞⭐      —̳͟͞͞⭐    —̳͟͞͞⭐  +
+(  •‿• )つ  —̳͟͞͞ ⭐         —̳͟͞͞⭐     —̳͟͞͞⭐ +    Don't Forget to Star my repositories!
+(つ　 <    +         —̳͟͞͞⭐      —̳͟͞͞⭐          Click the "Follow Me" Button, you will see MAGIC ~~
+｜　 _つ      +  —̳͟͞͞⭐    —̳͟͞͞⭐   —̳͟͞͞⭐     —̳͟͞͞⭐ ˚
+`し´
+```
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
