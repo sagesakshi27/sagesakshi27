@@ -4,6 +4,13 @@
 
 ---
 
+## 📬 Contact & Profiles
+
+- **Email:** sakshichavan4151@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/sakshi-chavan-b27048391
+
+---
+
 **Liked what you see?**  
 Follow me on **_[GitHub](https://github.com/sagesakshi27)_** and **⭐⭐⭐⭐⭐ star the repositories** you like!  
 Your support keeps me motivated to create more awesome projects 🚀
