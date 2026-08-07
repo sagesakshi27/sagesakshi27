@@ -2,6 +2,8 @@
 
 > Currently I'm Persuing BCA
 
+![Profile Views Badge](https://komarev.com/ghpvc/?username=sagesakshi27&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ## 📬 Contact & Profiles
