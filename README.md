@@ -1,8 +1,14 @@
 ## Hi there  I'm Sakshi Pandurang Chavan👋
 
-> Currently I'm Persuing BCA
+
+> Currently I'm Pursuing BCA
+
 
 ![Profile Views Badge](https://komarev.com/ghpvc/?username=sagesakshi27&label=Profile%20Views&color=0e75b6&style=flat)
+
+<p align=""center>
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="300px" width="100%"
+</p>
 
 ---
 
